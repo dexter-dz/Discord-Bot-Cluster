@@ -1,5 +1,6 @@
-# Discord-Bot-Cluster
-A framework to manage several discord bots at once with dynamic modules.
+# Discord-Bot-Cluster v1.2
+| V1.2 is modified version by Dexter-dz and connor and hosting it as a side project, Thanks to @JimmyPilkingto1 for this project where we can move forward from this template |
+A framework to manage several discord bots at once with dynamic modules. 
 
 ## Idee
 A cluster for managing multiple discord bots and their modules.
