@@ -6,6 +6,7 @@ A framework to manage several discord bots at once with dynamic modules.
 
 ## Idee
 A cluster for managing multiple discord bots and their modules.
+Let's just say it works smoothly
 
 ## Modules
 - [Noot](https://github.com/CodingSyndicate/Discord-Bot-Cluster/tree/main/modules/noot)
